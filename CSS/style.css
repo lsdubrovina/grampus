@@ -1,0 +1,8 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    front-size: 72px;
+    color: crimson;
+    display: flex;
+}
