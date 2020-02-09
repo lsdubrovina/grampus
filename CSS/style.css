@@ -1,8 +1,18 @@
-body {
-    background-color: blueviolet;
-}
-h1 {
-    front-size: 72px;
-    color: crimson;
+.main-section {
+    min-height: 786px;
+    background: url(../img/main.section.png);
+    background-size: cover;
+    position: relative;
+
     display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: rgb(247, 243, 243);
+    text-align: center;
+
 }
+
+
+
+
